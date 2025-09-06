@@ -1,3 +1,5 @@
+El presente es un pequeño ejercicio en C para una guia de Gestión y programación de Sistemas Operativos de la Universidad de El Salvador
+
 🐧 Ejercicio 3 - División por Cero en C
 📌 Descripción
 
